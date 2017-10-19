@@ -1,0 +1,32 @@
+#box_a {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    bottom: 10px;
+    left: 10px;
+    background-color:deepskyblue;
+}
+#box_b {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    bottom: 20px;
+    left:20px;
+    background: orangered;
+}
+/* ---------- Botones ---------------- 
+.next {
+    border-radius: 200px 200px 200px 200px;
+    border: 5px rgb(232,78,26) solid;
+    margin-left: 50%;
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: rgb(232,78,26);
+    box-shadow: 2px 2px 2px black;
+}
+.next:hover{
+    background-color: darkred;
+    border: 5px darkred solid;
+}*/

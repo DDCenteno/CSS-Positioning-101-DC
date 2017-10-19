@@ -1,0 +1,43 @@
+/* aplicando el primer ejemplo A de position Static*/
+#box_1 {
+    position: static;
+    width: 200px;
+    height: 200px;
+    background:#ee3e64;
+}
+#box_2 {
+   position: static;
+	width: 200px;
+	height: 200px;
+	background: #44accf;
+}
+
+#box_3 { 
+	position: static;
+	width: 200px;
+	height: 200px;
+	background: #b7d84b;
+    margin-bottom: 10px;
+}
+.bottom {
+    display: inline-block;
+    position: relative;
+    bottom: -10px;
+    left: -10px;
+    right: -10px;
+    background-color: cadetblue;
+    height: 40px;
+    width: 101%;
+}
+a {
+    margin-left: 10px;
+    position: relative;
+    top: 12px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.next:hover{
+    background-color: black;
+    color: white;
+}
